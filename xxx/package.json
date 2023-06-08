@@ -1,0 +1,17 @@
+{
+  "name": "xxx",
+  "description": "",
+  "abc_type": "enums",
+  "abc_product":"CFS",
+  "author": "游客",
+  "version": "1.0.0",
+  "scripts": {
+    "dev" : "ab execute dev",
+    "build": "ab execute build",
+    "buildSingle": "ab execute buildSingle"
+  },
+  "engines": {
+    "node": ">=8.9"
+  },
+  "_abScriptsPackage": "@ab-scaffold-enum/ab-enum-scripts"
+}

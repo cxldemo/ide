@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- name: 默认工程名; description:描述; type:工程类型; 是否是domain -->
+<astudioProject description="" name="Test" type="">
+    <filters>
+        <!-- name:正则备注; pattern:正则表达式 -->
+        <filter name="过滤xxx文件夹" pattern="shaped"/>
+    </filters>
+    <resources>
+        <!-- type[不可变]:lfc-公共lfc文件夹、atoms-技术组件文件夹; path:路径信息（atoms可配置为'.',为整个工程） -->
+        <resource path="" type="lfc"/>
+        <resource path="" type="abf4a"/>
+        <resource path="" type="atoms"/>
+    </resources>
+</astudioProject>

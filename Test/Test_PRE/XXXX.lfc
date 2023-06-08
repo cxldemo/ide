@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LogicFlowControl accessibility="private" caption="" idCount="0" start="0">
+    <EndStep id="1000" uiFeature="结束">
+        <Entry id="xy_size" value="180,40"/>
+        <Entry id="xy_location" value="50,400"/>
+        <In caption="正常出口" id="1" name="OK"/>
+    </EndStep>
+    <InArgs/>
+    <OutArgs/>
+    <InternalVars/>
+    <FileDescription>作者:&#xd;
+功能:&#xd;
+备注:</FileDescription>
+    <Messages/>
+    <Dcl/>
+    <DataBasket/>
+    <End caption="正常出口" id="1001" name="OK"/>
+</LogicFlowControl>

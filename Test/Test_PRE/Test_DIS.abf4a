@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Content accessibility="private" caption="">
+    <Entry key="layout#layout" type="String" value="xy"/>
+    <Entry isExpress="false" key="constraints#xy_location" type="String" value="0,0"/>
+    <Entry isExpress="false" key="constraints#xy_size" type="String" value="800,600"/>
+    <Entry isExpress="false" key="title" type="String" value=""/>
+    <Entry isExpress="true" key="visible" type="String" value="true"/>
+    <Entry isExpress="true" key="disabled" type="String" value="false"/>
+    <Entry isExpress="false" key="targetId" type="String" value=""/>
+    <Entry isExpress="false" key="accessibility" type="String" value="private"/>
+    <Entry isExpress="false" key="style" type="String" value="[默认]font-size:12pt;font-family:宋体"/>
+    <Entry isExpress="false" key="propertiesI18n" type="String" value="{}"/>
+    <Entry isExpress="false" key="OnClose" type="Close" value="Close"/>
+    <Entry isExpress="false" key="Dcl" type="" value="[]"/>
+    <Entry isExpress="false" key="Enums" type="" value="[]"/>
+    <Ends>
+        <Out caption="关闭出口" name="Close"/>
+        <Out caption="正常出口" name="正常出口"/>
+        <Out caption="上一步" name="Back"/>
+    </Ends>
+    <Imports/>
+    <Messages/>
+    <Dcl/>
+    <Enums/>
+    <DataBasket/>
+    <DataRule/>
+    <InternalVars/>
+</Content>

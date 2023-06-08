@@ -1,0 +1,21 @@
+{
+  "name": "Test",
+  "description": "",
+  "abc_type": "trades",
+  "abc_product":"CFS",
+  "author": "游客",
+  "version": "1.0.0",
+  "scripts": {
+    "dev" : "ab execute dev",
+    "build": "ab execute build",
+    "buildSingle": "ab execute buildSingle"
+  },
+  "engines": {
+    "node": ">=8.9"
+  },
+  "dependencies": {
+    "@boeing/boeing-framework": "^1.0.14",
+    "@aui-teller/common": "^1.0.1"
+  },
+  "_abScriptsPackage": "@ab-scaffold-trade/ab-trade-scripts"
+}

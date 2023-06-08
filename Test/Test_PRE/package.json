@@ -1,0 +1,16 @@
+{
+  "name": "@Test/Test_PRE",
+  "abc_type": "trades",
+  "abc_product": "CFS",
+  "author": "游客",
+  "version": "1.0.0",
+  "organization": "",
+  "description": "a",
+  "dependencies": {
+    "@boeing/boeing-framework": "^1.0.14",
+    "@aui-teller/common": "^1.0.1",
+    "@acap/acap-rule-support": "^1.0.0"
+  },
+  "devDependencies": {},
+  "_abScriptsPackage": "@ab-scaffold-trade/ab-trade-scripts"
+}
