@@ -24,5 +24,24 @@
     <Enums/>
     <DataBasket/>
     <DataRule/>
+    <Bean feature="Text">
+        <Entry isExpress="false" key="constraints#xy_location"
+            type="String" value="80,65"/>
+        <Entry isExpress="false" key="constraints#xy_size" type="String" value="120,28"/>
+        <Entry isExpress="false" key="id" type="String" value="Edt1"/>
+        <Entry isExpress="false" key="text" type="" value="文本框"/>
+        <Entry isExpress="true" key="ade" type="" uri="" value=""/>
+        <Entry isExpress="true" key="visible" type="" value="true"/>
+        <Entry isExpress="true" key="disabled" type="" value="false"/>
+        <Entry isExpress="false" key="textType" type="" value="text"/>
+        <Entry isExpress="false" key="placeholder" type="" value=""/>
+        <Entry isExpress="true" key="maxLength" type="" value=""/>
+        <Entry isExpress="false" key="style" type="" value="[默认]font-size:12pt;font-family:宋体"/>
+        <Entry isExpress="true" key="required" type="" value="false"/>
+        <Entry isExpress="true" key="readonly" type="" value="false"/>
+        <Entry isExpress="true" key="min" type="" value="0"/>
+        <Entry isExpress="true" key="max" type="" value="100"/>
+        <Entry isExpress="true" key="step" type="" value="1"/>
+    </Bean>
     <InternalVars/>
 </Content>
